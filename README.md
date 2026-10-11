@@ -10,9 +10,9 @@
 
 ## Overview
 
-There are plenty of videos and guides on installing **any** Linux distro on an older Surface Pro. I tried many of them myself. After running into a handful of issues, I would usually give up for weeks, then try again on a different distro. The troubleshooting process was tedious, but I eventually got it working.
+There are plenty of videos and guides on installing **any** Linux distro on an older Surface Pro. I tried many of them myself and after running into a few issues, I usually gave up for weeks until I tried again on another distro. This was a really tedious troubleshooting process and since I've figured it out, I'd like to hopefully add more insight on the list of issues on this... everlasting hunger for reviving old hardware.
 
-This repository documents what I learned and aims to add more insight into the common problems on this never-ending quest to revive old hardware.
+I've personally tried a lot of guides and after running into a few issues, I usually gave up for weeks until I tried again on another distro. This was a really tedious troubleshooting process and since I've figured it out, I'd like to hopefully add more insight on the list of issues on this... everlasting hunger for reviving old hardware.
 
 ---
 
